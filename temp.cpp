@@ -1,6 +1,7 @@
-#include <cstdio>
+#include <iostream>
+using namespace std;
 int main()
 {
-int a[3][4]={{1,2,3,4},{2,3,4,5},{2,6,7,8}};
-printf("%d",*a[2,1]);
+    bool x = not false;
+    cout<<x;
 }
